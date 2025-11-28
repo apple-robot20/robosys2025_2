@@ -3,7 +3,7 @@
 
 
 # passwordコマンド
-### バッジのやつ
+![test](https://github.com/yukisasa/robosys2025_2/actions/workflows/test.yml/badge.svg)
 
 - パスワードを生成してくれるコマンド
 　- 大文字A~Z,小文字a~z,数字0~9,記号!#@,のどれか一つを入力する。その文字を含んだパスワードが10~15文字でランダムに生成される。
