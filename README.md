@@ -45,12 +45,23 @@
      cat result.txt
 
 
+
 # 必要なソフトウェア
 - python
-  - テスト済みバージョン： 3.7~3.10
- 
+  - テスト済みバージョン： 3.7~3.10 
+
 
 # テスト環境
 - Ubuntu 22.04.5 LTS
 
 © 2025 Yuki Sasa
+
+# ライセンス
+
+-このソフトウェアパッケージは、[ 3-Clause BSD License ] の下で使用が許可されます。
+
+©　2025　Yuki Sasa
+
+# 参考文献
+- 英語のゆずりん　https://english.chakin.com/eul-news-2.html
+
