@@ -15,17 +15,16 @@
 
    -基本構文　
 
-　  cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
+     cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
 
 
-
-     -実行例
+   -実行例
 
 　　データ処理の結果をresult.txtに、処理の内容をreport.logに保存する。
 
 
  
- 　cat Text.txt | ./remove_blanks > result.txt 2> report.log
+     cat Text.txt | ./remove_blanks > result.txt 2> report.log
 
 
 ログファイルには、削除行数の個数やエラーなどの警告メッセージが確認出来る。
