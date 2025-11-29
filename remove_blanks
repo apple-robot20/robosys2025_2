@@ -1,0 +1,33 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2025 Yuki Sasa
+# SPDX-License-Identifier: BSD-3-Clausei
+
+import sys
+
+PROGRAM_NAME = "remove_blanks"
+blank_lines_count = 0
+
+def process_data():
+    global blank_lines_count
+
+    for line in sys.stdin:
+        
+        stripped_line = line.strip()
+
+        if not stripped_line:
+            blank_lines_count += 1
+            continue
+        print(line, end='')
+
+    summary_message = f"\n[{PROGRAM_NAME} INFO] {blank_lines_count}"
+    print(summary_message, file=sys.stderr)
+
+if __name__ == "__main__":
+    try:
+        process_data()
+    except Exception as e:
+        
+        error_message = f"[{PROGRAM_NAME} CRITICAL ERROR]: {e}"
+        print(error_message, file=sys.stderr)
+        sys.exit(1)
+
