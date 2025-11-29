@@ -2,14 +2,36 @@
 ロボットシステム学課題１
 
 
-# passwordコマンド
+# remove_blanksコマンド
 ![test](https://github.com/apple-robot20/robosys2025_2/actions/workflows/test.yml/badge.svg)
 
-- パスワードを生成してくれるコマンド
-　- 大文字A~Z,小文字a~z,数字0~9,記号!#@,のどれか一つを入力する。その文字を含んだパスワードが10~15文字でランダムに生成される。
+- 空白行を削除するコマンド
+　- 標準入力から受け取ったテキストデータから空白行を削除し、クリーンな状態のデータを標準出力に出す。
 
 - 使い方
- - #####
+ - このコマンドは、cat コマンドとパイプ (|) で組み合わせて使用する。
+
+   -基本構文　
+
+　cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
+
+
+   -実行例
+
+　データ処理の結果をresult.txtに、処理の内容をreport.logに保存する。
+
+　cat Text.txt | ./remove_blanks > result.txt 2> report.log
+
+ログファイルには、削除行数の個数やエラーなどの警告メッセージが確認出来る。
+
+確認するには、以下のcatコマンドを打つ。
+
+　cat report.log
+
+処理されたファイルの内容を確認する際にも同様にする。
+
+　cat result.txt
+
 
 # 必要なソフトウェア
 - python
