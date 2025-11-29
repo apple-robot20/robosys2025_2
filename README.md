@@ -34,12 +34,15 @@
 確認するには、以下のcatコマンドを打つ。
 
 
-　cat report.log
+
+     cat report.log
 
 
 処理されたファイルの内容を確認する際にも同様にする。
 
-　cat result.txt
+
+
+     cat result.txt
 
 
 # 必要なソフトウェア
