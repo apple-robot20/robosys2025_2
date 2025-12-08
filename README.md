@@ -53,9 +53,9 @@
 
 # ライセンス
 
--このソフトウェアパッケージは,３条項BSDの下で使用が許可されます。
+- このソフトウェアパッケージは,３条項BSDの下で使用が許可されます。
 
-©　2025　Yuki Sasa
+- © 2025 Yuki Sasa
 
 # 参考文献
 - 英語のゆずりん　https://english.chakin.com/eul-news-2.html
