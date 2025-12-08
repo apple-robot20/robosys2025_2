@@ -13,29 +13,25 @@
 
     このコマンドは、cat コマンドとパイプ (|) で組み合わせて使用する。
 
-   -基本構文
-
-　
-
-     cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
+-基本構文
 
 
-   -実行例
-
-　　データ処理の結果をresult.txtに、処理の内容をreport.logに保存する。
+cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
 
 
- 
-     cat Text.txt | ./remove_blanks > result.txt 2> report.log
+-実行例
+
+　データ処理の結果をresult.txtに、処理の内容をreport.logに保存する。
+
+　cat Text.txt | ./remove_blanks > result.txt 2> report.log
 
 
-ログファイルには、削除行数の個数やエラーなどの警告メッセージが確認出来る。
+ログファイルには、削除行数の個数やエラーなどの警告メッセージが確認できる。
 
 確認するには、以下のcatコマンドを打つ。
 
 
-
-     cat report.log
+　cat report.log
 
 
 処理されたファイルの内容を確認する際にも同様にする。
