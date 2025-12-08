@@ -9,19 +9,20 @@
 
     標準入力から受け取ったテキストデータから空白行を削除し、クリーンな状態のデータを標準出力に出す。
 
+
 - 使い方
 
     このコマンドは、cat コマンドとパイプ (|) で組み合わせて使用する。
 
--基本構文
+
+- 基本構文
+
+    cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
 
 
-cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
+- 実行例
 
-
--実行例
-
-　データ処理の結果をresult.txtに、処理の内容をreport.logに保存する。
+　  データ処理の結果をresult.txtに、処理の内容をreport.logに保存する。
 
 　cat Text.txt | ./remove_blanks > result.txt 2> report.log
 
