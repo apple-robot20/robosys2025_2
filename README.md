@@ -37,8 +37,7 @@ cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログフ�
 処理されたファイルの内容を確認する際にも同様にする。
 
 
-
-     cat result.txt
+  cat result.txt
 
 
 
@@ -53,7 +52,7 @@ cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログフ�
 
 # ライセンス
 
--このソフトウェアパッケージは、[ 3-Clause BSD License ] の下で使用が許可されます。
+-このソフトウェアパッケージは,３条項BSDの下で使用が許可されます。
 
 ©　2025　Yuki Sasa
 
