@@ -22,7 +22,7 @@
 　　cat　 Text.txt | ./remove_blanks > result.txt 2> report.log
 
 
-　・Text.txt の内容
+  ・Text.txt の内容
 
 
 
