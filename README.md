@@ -12,7 +12,7 @@
 
 - 使い方
 
-  テキストファイルの内容を処理し、空行を削除した結果を標準出力に表示する。データ処理の結果を出力先ファイルに、処理の内容をログファイルに保存する。
+  テキストファイルの内容を処理し、空行を削除した結果を標準出力に表示する。データ処理の結果を出力先ファイルに、処理の内容をログファイルに保存する。処理が完了した後、標準出力エラーで削除した空行の総数を表示する。
 
     cat  テキストファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
 
@@ -54,7 +54,7 @@ Reservations must be made at least two days in advance via the company’s websi
 
 
 
-  ・標準出力の結果
+  ・標準出力（出力先ファイル）の結果
 
 
 HIROSAKI, Aomori Prefecture—Sake connoisseurs wanting to try the top breweries in Aomori Prefecture and enjoy drinking with experts can sign up for new taxi tours supervised by a sake sommelier that started in November.
@@ -71,6 +71,13 @@ Tours can also be customized, and in addition to standard cars for four passenge
 “I want to introduce the rich sake culture of Tsugaru (western Aomori),” Fujimoto said enthusiastically.
 “I hope to help create fun memories,” Sasaki said.
 Reservations must be made at least two days in advance via the company’s website: (https://www.hokuseikotsu.co.jp/blog/34598)
+
+
+
+  ・標準出力エラー（ログファイル）
+
+  [remove_blanks INFO] 14
+
 
 
 
