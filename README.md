@@ -60,7 +60,7 @@ Reservations must be made at least two days in advance via the company’s websi
 
 
 
-  ・標準出力（出力先ファイル）の結果
+  ・標準出力（result.txt）の結果
 
 
 HIROSAKI, Aomori Prefecture—Sake connoisseurs wanting to try the top breweries in Aomori Prefecture and enjoy drinking with experts can sign up for new taxi tours supervised by a sake sommelier that started in November.
@@ -80,7 +80,10 @@ Reservations must be made at least two days in advance via the company’s websi
 
 
 
-  ・標準出力エラー（ログファイル）
+  ・標準出力エラー（report.log）
+
+   cat report.log
+
 
   [remove_blanks INFO] 14
 
