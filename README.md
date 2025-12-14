@@ -5,9 +5,7 @@
 # remove_blanksコマンド
 ![test](https://github.com/apple-robot20/robosys2025_2/actions/workflows/test.yml/badge.svg)
 
-- 空白行を削除するコマンド
-
-    標準入力から受け取ったテキストデータから空白行を削除し、クリーンな状態のデータを標準出力に出す。
+- 標準出力からテキストデータを読み込み、空行を削除して空行以外の行を標準出力として出力するプログラム
 
 
 - 使い方
