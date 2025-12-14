@@ -64,5 +64,5 @@
 - © 2025 Yuki Sasa
 
 # 参考文献
-- 英語のゆずりん　https://english.chakin.com/eul-news-2.html
+- 朝日新聞. "Local sake taxi in Aomori offers tours of local breweries". https://www.asahi.com/ajw/articles/16181895
 
