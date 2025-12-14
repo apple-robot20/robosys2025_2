@@ -5,12 +5,12 @@
 # remove_blanksコマンド
 ![test](https://github.com/apple-robot20/robosys2025_2/actions/workflows/test.yml/badge.svg)
 
-- 概要
+# 概要
  
 　標準出力からテキストデータを読み込み、空行を削除して空行以外の行を標準出力として出力するプログラ ム。
 
 
-- 使い方
+# 使い方
 
   テキストファイルの内容を処理し、空行を削除した結果を標準出力に表示する。データ処理の結果を出力先ファイルに、処理の内容をログファイルに保存する。処理が完了した後、標準出力エラーで削除した空行の総数を表示する。
 
@@ -20,7 +20,7 @@
 
 
 
-- 実行例
+# 実行例
 
 　　cat　 Text.txt | ./remove_blanks > result.txt 2> report.log
 
