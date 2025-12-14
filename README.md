@@ -54,8 +54,6 @@ Reservations must be made at least two days in advance via the company’s websi
 
 
 
-
-
   ・標準出力の結果
 
 
