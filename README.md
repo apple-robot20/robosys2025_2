@@ -25,7 +25,7 @@
   ・Text.txt の内容
 
 
-  ![ image alt ] (image_)
+  ![ image alt ] (image_)https://github.com/apple-robot20/robosys2025_2/blob/3f2082429590a40561ac2c7e5f71e3204ed6ab07/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-14%20180416.png
 
 
 
