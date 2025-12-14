@@ -10,16 +10,14 @@
 
 - 使い方
 
-  テキストファイルの内容を処理し、空行を削除した結果を標準出力に表示する。
+  テキストファイルの内容を処理し、空行を削除した結果を標準出力に表示する。データ処理の結果を出力先ファイルに、処理の内容をログファイルに保存する。
 
-    cat 入力ファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
+    cat  テキストファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
 
 
 - 実行例
 
-　  データ処理の結果をresult.txtに、処理の内容をreport.logに保存する。
-
-　cat Text.txt | ./remove_blanks > result.txt 2> report.log
+　　cat　 Text.txt | ./remove_blanks > result.txt 2> report.log
 
 
 ログファイルには、削除行数の個数やエラーなどの警告メッセージが確認できる。
