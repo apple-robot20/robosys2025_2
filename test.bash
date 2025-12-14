@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-FileCopyrightText: 2025 Yuki Sasa 　　　　　
-# SPDX-License-Identifier: BSD-3-Clausei
+# SPDX-License-Identifier: BSD-3-Clause
 
 res=0
    
