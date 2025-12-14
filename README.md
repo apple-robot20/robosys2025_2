@@ -24,10 +24,33 @@
 
   ・Text.txt の内容
 
+HIROSAKI, Aomori Prefecture—Sake connoisseurs wanting to try the top breweries in Aomori Prefecture and enjoy drinking with experts can sign up for new taxi tours supervised by a sake sommelier that started in November. 
 
+The various tours offer visits to local sake breweries and are led by drivers who have passed the sake diploma examination conducted by the Japan Sommelier Association.
 
+Hokusei Kotsu Co., a local taxi operator based in Hirosaki, created the tours to help participants better enjoy the charms of the top sake brewed in the prefecture and have fun along the way.
 
+“Experience delicious sake brewery tours with our local sake taxi,” said Hokusei Kotsu President Yasuhiro Shimoyama.
 
+Izumi Miya, a sommelier from the city, supervises the tours.
+
+Miya, an Aomori Jizake ambassador certified by the Aomori Brewers Association, also gives lectures to help prepare for the sake diploma examination.
+
+The tour drivers are Satoru Fukuda, 60, Hiroki Sasaki, 61, and Mamoru Fujimoto, 60. All took lectures from Miya and passed the sake diploma examination.
+
+For a standard car with a capacity of up to four people, courses include a two-hour tour visiting two sake breweries, a three-and-a-half-hour tour visiting one winery and three sake breweries, and a three-hour custom tour accompanied by Miya for local sake experiences in the city and beyond.
+
+Prices range from 12,800 yen to 29,200 yen ($82 to $187) per vehicle including tax. Participants are required to pay tasting and admission fees at the breweries individually.
+
+Tours can also be customized, and in addition to standard cars for four passengers, jumbo taxis for up to nine passengers are available.
+
+“I want to introduce ways to enjoy local sake beyond just drinking and share the stories behind each sake variety,” Fukuda said.
+
+“I want to introduce the rich sake culture of Tsugaru (western Aomori),” Fujimoto said enthusiastically.
+
+“I hope to help create fun memories,” Sasaki said.
+
+Reservations must be made at least two days in advance via the company’s website: (https://www.hokuseikotsu.co.jp/blog/34598)
 
 
 
@@ -36,13 +59,20 @@
   ・標準出力の結果
 
 
-
-
-
-
-
-
-　
+HIROSAKI, Aomori Prefecture—Sake connoisseurs wanting to try the top breweries in Aomori Prefecture and enjoy drinking with experts can sign up for new taxi tours supervised by a sake sommelier that started in November.
+The various tours offer visits to local sake breweries and are led by drivers who have passed the sake diploma examination conducted by the Japan Sommelier Association.
+Hokusei Kotsu Co., a local taxi operator based in Hirosaki, created the tours to help participants better enjoy the charms of the top sake brewed in the prefecture and have fun along the way.
+“Experience delicious sake brewery tours with our local sake taxi,” said Hokusei Kotsu President Yasuhiro Shimoyama.
+Izumi Miya, a sommelier from the city, supervises the tours.
+Miya, an Aomori Jizake ambassador certified by the Aomori Brewers Association, also gives lectures to help prepare for the sake diploma examination.
+The tour drivers are Satoru Fukuda, 60, Hiroki Sasaki, 61, and Mamoru Fujimoto, 60. All took lectures from Miya and passed the sake diploma examination.
+For a standard car with a capacity of up to four people, courses include a two-hour tour visiting two sake breweries, a three-and-a-half-hour tour visiting one winery and three sake breweries, and a three-hour custom tour accompanied by Miya for local sake experiences in the city and beyond.
+Prices range from 12,800 yen to 29,200 yen ($82 to $187) per vehicle including tax. Participants are required to pay tasting and admission fees at the breweries individually.
+Tours can also be customized, and in addition to standard cars for four passengers, jumbo taxis for up to nine passengers are available.
+“I want to introduce ways to enjoy local sake beyond just drinking and share the stories behind each sake variety,” Fukuda said.
+“I want to introduce the rich sake culture of Tsugaru (western Aomori),” Fujimoto said enthusiastically.
+“I hope to help create fun memories,” Sasaki said.
+Reservations must be made at least two days in advance via the company’s website: (https://www.hokuseikotsu.co.jp/blog/34598)
 
 
 
