@@ -15,14 +15,13 @@
   テキストファイルの内容を処理し、空行を削除した結果を標準出力に表示する。データ処理の結果を出力先ファイルに保存する。処理の内容をログファイルに保存する。処理が完了した後、標準出力エラーで削除した空行の総数を表示する。
 
 
-
   cat  テキストファイル | ./remove_blanks  > 出力先ファイル 2> ログファイル
 
 
 
 # 実行例
 
-　　cat　 Text.txt | ./remove_blanks > result.txt 2> report.log
+  cat　 Text.txt | ./remove_blanks > result.txt 2> report.log
 
 
   ・Text.txt の内容
@@ -82,8 +81,7 @@ Reservations must be made at least two days in advance via the company’s websi
 
   ・標準出力エラー（report.log）
 
-   cat report.log
-
+  cat report.log
 
   [remove_blanks INFO] 14
 
@@ -106,5 +104,5 @@ Reservations must be made at least two days in advance via the company’s websi
 - © 2025 Yuki Sasa
 
 # 参考文献
-- 朝日新聞. "Local sake taxi in Aomori offers tours of local breweries". https://www.asahi.com/ajw/articles/16181895
+- 朝日新聞社. "Local sake taxi in Aomori offers tours of local breweries". https://www.asahi.com/ajw/articles/16181895
 
