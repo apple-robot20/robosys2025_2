@@ -24,7 +24,7 @@
 
   ・Text.txt の内容
 
-
+![image alt](image_https://github.com/apple-robot20/robosys2025_2/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-14%20180416.png?raw=true)
 
 
 
